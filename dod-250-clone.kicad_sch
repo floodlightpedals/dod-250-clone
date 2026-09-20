@@ -4136,7 +4136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Omeg_PC16BU_Vertical"
+		(property "Footprint" "Floodlight_Custom_Footprints:Alpha_RV16AF-41"
 			(at 92.71 93.98 0)
 			(effects
 				(font
@@ -5438,7 +5438,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Omeg_PC16BU_Vertical"
+		(property "Footprint" "Floodlight_Custom_Footprints:Alpha_RV16AF-41"
 			(at 236.22 118.11 0)
 			(effects
 				(font
