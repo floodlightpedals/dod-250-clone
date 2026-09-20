@@ -2479,7 +2479,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SW_GND"
+		(property "Value" "GND"
 			(at 78.74 168.9099 0)
 			(effects
 				(font
@@ -2634,7 +2634,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SW_LED"
+		(property "Value" "LED"
 			(at 115.57 168.9099 0)
 			(effects
 				(font
@@ -2700,7 +2700,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SW_OUT"
+		(property "Value" "OUT"
 			(at 135.89 160.0199 0)
 			(effects
 				(font
@@ -2853,7 +2853,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SW_SEND"
+		(property "Value" "SEND"
 			(at 78.74 160.0199 0)
 			(effects
 				(font
@@ -5162,7 +5162,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SW_IN"
+		(property "Value" "IN"
 			(at 57.15 160.0199 0)
 			(effects
 				(font
@@ -5362,7 +5362,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SW_RTN"
+		(property "Value" "RTN"
 			(at 115.57 160.0199 0)
 			(effects
 				(font
